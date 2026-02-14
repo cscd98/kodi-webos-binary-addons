@@ -1,3 +1,5 @@
 org.xbmc.kodi_21.90.702_arm.ipk filter=lfs diff=lfs merge=lfs -text
 org.xbmc.kodi_21.90.702_arm-DEBUG.ipk filter=lfs diff=lfs merge=lfs -text
 org.xbmc.kodi_21.90.702_arm-GSTREAMER.ipk filter=lfs diff=lfs merge=lfs -text
+*.ipk filter=lfs diff=lfs merge=lfs -text
+org.xbmc.kodi_21.90.702_arm-WEBOS-3-RELEASE.ipk filter=lfs diff=lfs merge=lfs -text
